@@ -82,6 +82,8 @@ public class TimePickerDialogFragment extends DialogFragment {
 		mCancel.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
+				
+				notifyListenersOnCancel();
 				dismiss();
 			}
 		});
@@ -91,8 +93,7 @@ public class TimePickerDialogFragment extends DialogFragment {
 			@Override
 			public void onClick(View view) {
 
-				notifyOnTimeSetListeners();
-
+				notifyListenersOnTimeSet();
 				dismiss();
 			}
 		});
@@ -114,6 +115,8 @@ public class TimePickerDialogFragment extends DialogFragment {
 	public interface TimePickerDialogHandler {
 
 		void onDialogTimeSet(int hourOfDay, int minute);
+
+		void onDialogCancel();
 	}
 
 
@@ -125,10 +128,10 @@ public class TimePickerDialogFragment extends DialogFragment {
 	 * 					- listener to be notified of TimeSetListener's events
 	 */
 
-	private Vector<TimePickerDialogHandler> _timeSetListeners = new Vector<TimePickerDialogHandler>();
+	private Vector<TimePickerDialogHandler> _timePickerDialogListeners = new Vector<TimePickerDialogHandler>();
 
 	void setTimeSetListeners(Vector<TimePickerDialogHandler> listeners) {
-		_timeSetListeners = listeners;
+		_timePickerDialogListeners = listeners;
 	}
 
 
@@ -136,9 +139,20 @@ public class TimePickerDialogFragment extends DialogFragment {
 	 * Iterates over all the TimePickerDialogHandler registered listeners and dispatches the onDialogTimeSet() with the preselected time
 	 * 
 	 */
-	private void notifyOnTimeSetListeners() {
-		for (TimePickerDialogHandler listener : _timeSetListeners) {
+	private void notifyListenersOnTimeSet() {
+		for (TimePickerDialogHandler listener : _timePickerDialogListeners) {
 			listener.onDialogTimeSet(mPicker.getHours(), mPicker.getMinutes());
+		}
+	}
+
+
+	/**
+	 * Iterates over all the TimePickerDialogHandler registered listeners and dispatches the onDialogTimeSet() with the preselected time
+	 * 
+	 */
+	private void notifyListenersOnCancel() {
+		for (TimePickerDialogHandler listener : _timePickerDialogListeners) {
+			listener.onDialogCancel();
 		}
 	}
 
