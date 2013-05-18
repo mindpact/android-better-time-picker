@@ -93,22 +93,6 @@ public class TimePickerDialogFragment extends DialogFragment {
 
 				notifyOnTimeSetListeners();
 
-				/*
-				
-				final Activity activity = getActivity();
-				final Fragment fragment = getTargetFragment();
-				if (activity instanceof TimePickerDialogHandler) {
-					final TimePickerDialogHandler act = (TimePickerDialogHandler) activity;
-					act.onDialogTimeSet(mPicker.getHours(), mPicker.getMinutes());
-				} else if (fragment instanceof TimePickerDialogHandler) {
-					final TimePickerDialogHandler frag = (TimePickerDialogHandler) fragment;
-					frag.onDialogTimeSet(mPicker.getHours(), mPicker.getMinutes());
-				} else {
-					//Log.e("Error! Activities that use TimePickerDialogFragment must implement "
-					//        + "TimePickerDialogHandler");
-				}
-				
-				*/
 				dismiss();
 			}
 		});
