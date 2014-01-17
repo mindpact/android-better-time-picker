@@ -15,6 +15,7 @@ public class TimerView extends LinearLayout {
 
     private ZeroTopPaddingTextView mHoursOnes, mMinutesOnes;
     private ZeroTopPaddingTextView mHoursTens, mMinutesTens;
+    private ZeroTopPaddingTextView mAMPMLabel;
     private final Typeface mAndroidClockMonoThin;
     private Typeface mOriginalHoursTypeface;
 
@@ -72,6 +73,8 @@ public class TimerView extends LinearLayout {
         mHoursOnes = (ZeroTopPaddingTextView) findViewById(R.id.hours_ones);
         mMinutesOnes = (ZeroTopPaddingTextView) findViewById(R.id.minutes_ones);
         mHoursSeperator = (ZeroTopPaddingTextView) findViewById(R.id.hours_seperator);
+        mAMPMLabel = (ZeroTopPaddingTextView) findViewById(R.id.ampm_label);
+        
         if (mHoursOnes != null) {
             mOriginalHoursTypeface = mHoursOnes.getTypeface();
         }
@@ -103,7 +106,7 @@ public class TimerView extends LinearLayout {
                 mHoursTens.setText(String.format("%d", hoursTensDigit));
                 mHoursTens.setTypeface(mOriginalHoursTypeface);
                 mHoursTens.setEnabled(true);
-                mHoursTens.updatePadding();
+                mHoursTens.updatePaddingForBoldDate();
                 mHoursTens.setVisibility(View.VISIBLE);
             }
         }
@@ -117,9 +120,14 @@ public class TimerView extends LinearLayout {
                 mHoursOnes.setText(String.format("%d", hoursOnesDigit));
                 mHoursOnes.setTypeface(mOriginalHoursTypeface);
                 mHoursOnes.setEnabled(true);
-                mHoursOnes.updatePadding();
+                mHoursOnes.updatePaddingForBoldDate();
             }
         }
+        
+        if (mAMPMLabel != null) {
+        	mAMPMLabel.updatePaddingForBoldDate();
+        }
+       
         if (mMinutesTens != null) {
             if (minutesTensDigit == -1) {
                 mMinutesTens.setText("-");
