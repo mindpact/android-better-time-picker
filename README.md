@@ -6,7 +6,10 @@ TimePicker DialogFragment modeled after the 4.2 Alarm Clock TimePicker to improv
 
 ## Changelog:
 
-
+**1.1**
+  
+  * Fix for the bold text overflow on Android 4.3 and 4.4
+  * Updated the compatibility library to the latest one at the moment
 
 **1.0**
   
