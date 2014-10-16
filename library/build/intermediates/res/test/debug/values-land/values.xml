@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/build/intermediates/bundles/debug/res/values-land/values.xml -->
+    <eat-comment />
+
+    <dimen name="date_viewpager_height">189dip</dimen>
+    <dimen name="dialpad_font_size">24sp</dimen>
+
+</resources>

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res" >
+            <file
+                name="dialog_text_color_holo_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/color/dialog_text_color_holo_dark.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="dialog_text_color_holo_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/color/dialog_text_color_holo_light.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="button_background_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/button_background_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_background_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/button_background_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_backspace_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/ic_backspace_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_backspace_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/ic_backspace_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_check_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/ic_check_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_check_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/ic_check_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="key_background_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/key_background_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="key_background_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable/key_background_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dialog_full_holo_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/dialog_full_holo_dark.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="dialog_full_holo_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/dialog_full_holo_light.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/ic_backspace_disabled_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/ic_backspace_disabled_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/ic_backspace_normal_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-hdpi/ic_backspace_normal_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="dialog_full_holo_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/dialog_full_holo_dark.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="dialog_full_holo_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/dialog_full_holo_light.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/ic_backspace_disabled_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/ic_backspace_disabled_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/ic_backspace_normal_dark.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-mdpi/ic_backspace_normal_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-hdpi/ic_backspace_disabled_dark.png"
+                qualifiers="sw600dp-hdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-hdpi/ic_backspace_disabled_light.png"
+                qualifiers="sw600dp-hdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-hdpi/ic_backspace_normal_dark.png"
+                qualifiers="sw600dp-hdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-hdpi/ic_backspace_normal_light.png"
+                qualifiers="sw600dp-hdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-mdpi/ic_backspace_disabled_dark.png"
+                qualifiers="sw600dp-mdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-mdpi/ic_backspace_disabled_light.png"
+                qualifiers="sw600dp-mdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-mdpi/ic_backspace_normal_dark.png"
+                qualifiers="sw600dp-mdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-mdpi/ic_backspace_normal_light.png"
+                qualifiers="sw600dp-mdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-xhdpi/ic_backspace_disabled_dark.png"
+                qualifiers="sw600dp-xhdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-xhdpi/ic_backspace_disabled_light.png"
+                qualifiers="sw600dp-xhdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-xhdpi/ic_backspace_normal_dark.png"
+                qualifiers="sw600dp-xhdpi-v13"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-sw600dp-xhdpi/ic_backspace_normal_light.png"
+                qualifiers="sw600dp-xhdpi-v13"
+                type="drawable" />
+            <file
+                name="dialog_full_holo_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/dialog_full_holo_dark.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="dialog_full_holo_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/dialog_full_holo_light.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_backspace_disabled_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_disabled_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_backspace_disabled_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_backspace_normal_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_backspace_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_backspace_normal_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_check_dark_disabled"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_check_dark_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_check_light_disabled"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_check_light_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_check_normal_dark"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_check_normal_dark.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_check_normal_light"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/drawable-xhdpi/ic_check_normal_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="date_picker_dialog"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/date_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/date_picker_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hms_picker_dialog"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/hms_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="hms_picker_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/hms_picker_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="keyboard"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/keyboard.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="keyboard_right_drawable"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/keyboard_right_drawable.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="keyboard_text"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/keyboard_text.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="number_picker_dialog"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/number_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="number_picker_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/number_picker_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="three_keys_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/three_keys_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="three_keys_view_leftright"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/three_keys_view_leftright.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="three_keys_view_right_drawable"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/three_keys_view_right_drawable.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="three_keys_view_text"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/three_keys_view_text.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="time_picker_dialog"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/time_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="time_picker_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout/time_picker_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="three_keys_view"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout-sw600dp/three_keys_view.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                name="three_keys_view_leftright"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout-sw600dp/three_keys_view_leftright.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                name="three_keys_view_right_drawable"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout-sw600dp/three_keys_view_right_drawable.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                name="three_keys_view_text"
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/layout-sw600dp/three_keys_view_text.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/arrays.xml"
+                qualifiers="" >
+                <string-array name="month_abbreviations" >
+                    <item>
+JAN
+                    </item>
+                    <item>
+FEB
+                    </item>
+                    <item>
+MAR
+                    </item>
+                    <item>
+APR
+                    </item>
+                    <item>
+MAY
+                    </item>
+                    <item>
+JUN
+                    </item>
+                    <item>
+JUL
+                    </item>
+                    <item>
+AUG
+                    </item>
+                    <item>
+SEP
+                    </item>
+                    <item>
+OCT
+                    </item>
+                    <item>
+NOV
+                    </item>
+                    <item>
+DEC
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="BetterPickersDialogFragment" >
+                    <attr
+                        name="bpTextColor"
+                        format="reference" />
+                    <attr
+                        name="bpDeleteIcon"
+                        format="reference" />
+                    <attr
+                        name="bpCheckIcon"
+                        format="reference" />
+                    <attr
+                        name="bpKeyBackground"
+                        format="reference" />
+                    <attr
+                        name="bpButtonBackground"
+                        format="reference" />
+                    <attr
+                        name="bpDividerColor"
+                        format="color" />
+                    <attr
+                        name="bpKeyboardIndicatorColor"
+                        format="color" />
+                    <attr
+                        name="bpDialogBackground"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="default_button_background_light" >#00000000
+                </color>
+                <color name="default_text_color_holo_light" >#ff000000
+                </color>
+                <color name="default_text_color_holo_light_disabled" >#ffb2b2b2
+                </color>
+                <color name="default_button_background_pressed_dark" >#46c5c1ff
+                </color>
+                <color name="default_divider_color_light" >#28000000
+                </color>
+                <color name="default_text_color_holo_dark" >#ffffffff
+                </color>
+                <color name="default_keyboard_indicator_color_light" >#ff00ddff
+                </color>
+                <color name="default_button_background_pressed_light" >#ff00ddff
+                </color>
+                <color name="default_divider_color_dark" >#28ffffff
+                </color>
+                <color name="default_text_color_holo_dark_disabled" >#ff4c4c4c
+                </color>
+                <color name="default_keyboard_indicator_color_dark" >#ff33b5e5
+                </color>
+                <color name="default_button_background_dark" >#00000000
+                </color>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="dialpad_font_size_ampm" >24sp
+                </dimen>
+                <dimen name="medium_font_size_hms" >54dp
+                </dimen>
+                <dimen name="date_viewpager_height" >254dip
+                </dimen>
+                <dimen name="dialpad_font_size" >48sp
+                </dimen>
+                <dimen name="medium_date_font_size" >48dp
+                </dimen>
+                <dimen name="tablet_dialpad_font_size_ampm" >30sp
+                </dimen>
+                <dimen name="medium_font_padding" >12dp
+                </dimen>
+                <dimen name="medium_font_size" >60dp
+                </dimen>
+                <dimen name="tablet_dialpad_font_size" >60sp
+                </dimen>
+                <dimen name="label_font_size" >14sp
+                </dimen>
+                <dimen name="dialog_button_font_size" >14sp
+                </dimen>
+                <dimen name="body_font_padding" >4dp
+                </dimen>
+                <dimen name="timer_padding_left" >16dip
+                </dimen>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="date_month_int"
+                    type="id"/>
+                <item
+                    name="date_keyboard"
+                    type="id"/>
+                <item
+                    name="numbers_key"
+                    type="id"/>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hours_label" >h
+                </string>
+                <string name="time_picker_30_label" >:30
+                </string>
+                <string name="picker_set" >OK
+                </string>
+                <string name="hours_label_description" >hours
+                </string>
+                <string name="time_picker_time_seperator" >:
+                </string>
+                <string name="minutes_label" >m
+                </string>
+                <string name="timer_delete" >Delete
+                </string>
+                <string name="seconds_label" >s
+                </string>
+                <string name="hms_picker_minutes_label" >M
+                </string>
+                <string name="number_picker_minus_label" >—
+                </string>
+                <string name="time_picker_00_label" >:00
+                </string>
+                <string name="number_picker_seperator" >.
+                </string>
+                <string name="minutes_label_description" >minutes
+                </string>
+                <string name="hms_picker_hours_label" >H
+                </string>
+                <string name="hms_picker_seconds_label" >S
+                </string>
+                <string name="number_delete" >Delete
+                </string>
+                <string name="number_picker_plus_minus" >+/-
+                </string>
+                <string name="picker_cancel" >Cancel
+                </string>
+                <string name="seconds_label_description" >seconds
+                </string>
+                <string name="time_picker_ampm_label" >--
+                </string>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="tablet_dialpad_text" >
+                    <item name="android:textSize">
+@dimen/tablet_dialpad_font_size_ampm
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-condensed
+                    </item>
+                </style>
+
+                <style name="dialpad" >
+                    <item name="android:textSize">
+@dimen/dialpad_font_size
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                </style>
+
+                <style name="label" >
+                    <item name="android:textSize">
+@dimen/label_font_size
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-condensed
+                    </item>
+                </style>
+
+                <style name="medium_bold" >
+                    <item name="android:textSize">
+@dimen/medium_font_size
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif
+                    </item>
+                </style>
+
+                <style
+                    name="medium_light_date"
+                    parent="@style/medium_bold" >
+                    <item name="android:textSize">
+@dimen/medium_date_font_size
+                    </item>
+                </style>
+
+                <style name="medium_light" >
+                    <item name="android:textSize">
+@dimen/medium_font_size
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                </style>
+
+                <style
+                    name="medium_bold_hms"
+                    parent="medium_bold" >
+                    <item name="android:textSize">
+@dimen/medium_font_size_hms
+                    </item>
+                </style>
+
+                <style
+                    name="medium_bold_date"
+                    parent="@style/medium_bold" >
+                    <item name="android:textSize">
+@dimen/medium_date_font_size
+                    </item>
+                </style>
+
+                <style name="dialog_button" >
+                    <item name="android:textSize">
+@dimen/dialog_button_font_size
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif
+                    </item>
+                    <item name="android:minHeight">
+48dp
+                    </item>
+                </style>
+
+                <style
+                    name="medium_light_hms"
+                    parent="medium_light" >
+                    <item name="android:textSize">
+@dimen/medium_font_size_hms
+                    </item>
+                </style>
+
+                <style name="tablet_dialpad" >
+                    <item name="android:textSize">
+@dimen/tablet_dialpad_font_size
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-condensed
+                    </item>
+                </style>
+
+                <style
+                    name="dialpad_text"
+                    parent="dialpad" >
+                    <item name="android:textSize">
+@dimen/dialpad_font_size_ampm
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values/themes.xml"
+                qualifiers="" >
+
+                <style name="BetterPickersDialogFragment" >
+                    <item name="bpDialogBackground">
+@drawable/dialog_full_holo_dark
+                    </item>
+                    <item name="bpTextColor">
+@color/dialog_text_color_holo_dark
+                    </item>
+                    <item name="bpDeleteIcon">
+@drawable/ic_backspace_dark
+                    </item>
+                    <item name="bpCheckIcon">
+@drawable/ic_check_dark
+                    </item>
+                    <item name="bpKeyBackground">
+@drawable/key_background_dark
+                    </item>
+                    <item name="bpButtonBackground">
+@drawable/button_background_dark
+                    </item>
+                    <item name="bpDividerColor">
+@color/default_divider_color_dark
+                    </item>
+                    <item name="bpKeyboardIndicatorColor">
+@color/default_keyboard_indicator_color_dark
+                    </item>
+                </style>
+
+                <style name="BetterPickersDialogFragment.Light" >
+                    <item name="bpDialogBackground">
+@drawable/dialog_full_holo_light
+                    </item>
+                    <item name="bpTextColor">
+@color/dialog_text_color_holo_light
+                    </item>
+                    <item name="bpDeleteIcon">
+@drawable/ic_backspace_light
+                    </item>
+                    <item name="bpCheckIcon">
+@drawable/ic_check_light
+                    </item>
+                    <item name="bpKeyBackground">
+@drawable/key_background_light
+                    </item>
+                    <item name="bpButtonBackground">
+@drawable/button_background_light
+                    </item>
+                    <item name="bpDividerColor">
+@color/default_divider_color_light
+                    </item>
+                    <item name="bpKeyboardIndicatorColor">
+@color/default_keyboard_indicator_color_light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values-land/dimens.xml"
+                qualifiers="land" >
+                <dimen name="date_viewpager_height" >189dip
+                </dimen>
+                <dimen name="dialpad_font_size" >24sp
+                </dimen>
+            </file>
+            <file
+                path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="medium_font_size" >100dp
+                </dimen>
+                <dimen name="body_font_padding" >8dp
+                </dimen>
+                <dimen name="medium_font_padding" >24dp
+                </dimen>
+                <dimen name="date_viewpager_height" >333dip
+                </dimen>
+                <dimen name="label_font_size" >18sp
+                </dimen>
+                <dimen name="medium_font_size_hms" >100dp
+                </dimen>
+                <dimen name="medium_date_font_size" >80dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/build/generated/res/rs/debug" />
+        <source path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/ryanborrowman/Workspace/TimePicker/android-better-time-picker/library/src/debug/res" />
+    </dataSet>
+
+</merger>
