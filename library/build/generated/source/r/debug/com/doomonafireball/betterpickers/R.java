@@ -216,14 +216,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpButtonBackground com.control4:bpButtonBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpCheckIcon com.control4:bpCheckIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpDeleteIcon com.control4:bpDeleteIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpDialogBackground com.control4:bpDialogBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpDividerColor com.control4:bpDividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpKeyBackground com.control4:bpKeyBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpKeyboardIndicatorColor com.control4:bpKeyboardIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BetterPickersDialogFragment_bpTextColor com.control4:bpTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpButtonBackground com.doomonafireball.betterpickers.timepicker:bpButtonBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpCheckIcon com.doomonafireball.betterpickers.timepicker:bpCheckIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpDeleteIcon com.doomonafireball.betterpickers.timepicker:bpDeleteIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpDialogBackground com.doomonafireball.betterpickers.timepicker:bpDialogBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpDividerColor com.doomonafireball.betterpickers.timepicker:bpDividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpKeyBackground com.doomonafireball.betterpickers.timepicker:bpKeyBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpKeyboardIndicatorColor com.doomonafireball.betterpickers.timepicker:bpKeyboardIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BetterPickersDialogFragment_bpTextColor com.doomonafireball.betterpickers.timepicker:bpTextColor}</code></td><td></td></tr>
            </table>
            @see #BetterPickersDialogFragment_bpButtonBackground
            @see #BetterPickersDialogFragment_bpCheckIcon
@@ -239,47 +239,47 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007
         };
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpButtonBackground}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpButtonBackground}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpButtonBackground
+          @attr name com.doomonafireball.betterpickers.timepicker:bpButtonBackground
         */
         public static final int BetterPickersDialogFragment_bpButtonBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpCheckIcon}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpCheckIcon}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpCheckIcon
+          @attr name com.doomonafireball.betterpickers.timepicker:bpCheckIcon
         */
         public static final int BetterPickersDialogFragment_bpCheckIcon = 2;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpDeleteIcon}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpDeleteIcon}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpDeleteIcon
+          @attr name com.doomonafireball.betterpickers.timepicker:bpDeleteIcon
         */
         public static final int BetterPickersDialogFragment_bpDeleteIcon = 1;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpDialogBackground}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpDialogBackground}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpDialogBackground
+          @attr name com.doomonafireball.betterpickers.timepicker:bpDialogBackground
         */
         public static final int BetterPickersDialogFragment_bpDialogBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpDividerColor}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpDividerColor}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
@@ -290,21 +290,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.control4:bpDividerColor
+          @attr name com.doomonafireball.betterpickers.timepicker:bpDividerColor
         */
         public static final int BetterPickersDialogFragment_bpDividerColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpKeyBackground}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpKeyBackground}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpKeyBackground
+          @attr name com.doomonafireball.betterpickers.timepicker:bpKeyBackground
         */
         public static final int BetterPickersDialogFragment_bpKeyBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpKeyboardIndicatorColor}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpKeyboardIndicatorColor}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
@@ -315,17 +315,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.control4:bpKeyboardIndicatorColor
+          @attr name com.doomonafireball.betterpickers.timepicker:bpKeyboardIndicatorColor
         */
         public static final int BetterPickersDialogFragment_bpKeyboardIndicatorColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.control4.R.attr#bpTextColor}
+          <p>This symbol is the offset where the {@link com.doomonafireball.betterpickers.timepicker.R.attr#bpTextColor}
           attribute's value can be found in the {@link #BetterPickersDialogFragment} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.control4:bpTextColor
+          @attr name com.doomonafireball.betterpickers.timepicker:bpTextColor
         */
         public static final int BetterPickersDialogFragment_bpTextColor = 0;
     };

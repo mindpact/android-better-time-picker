@@ -5,7 +5,7 @@ package com.doomonafireball.betterpickers;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String PACKAGE_NAME = "com.control4";
+  public static final String PACKAGE_NAME = "com.doomonafireball.betterpickers.timepicker";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;
