@@ -15,6 +15,5 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        maven { url "http://c4maven.control4.com:8081/artifactory/libs-snapshot-local" }
     }
 }
